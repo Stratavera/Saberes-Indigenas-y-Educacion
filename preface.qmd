@@ -1,0 +1,11 @@
+---
+format: html
+---
+
+# Prefacio
+
+Este libro nace de la convicción de que el fortalecimiento del conocimiento indígena es esencial para construir un sistema educativo más justo, diverso y sostenible en el Ecuador. Durante décadas, los pueblos indígenas han mantenido vivas sus lenguas, cosmovisiones y formas propias de enseñar y aprender, a menudo en contextos de desigualdad y exclusión. Sin embargo, en los últimos años, experiencias internacionales han demostrado que es posible diseñar políticas y programas que reconozcan y potencien estos saberes como pilares de desarrollo y bienestar colectivo. Inspirado en esos ejemplos, este trabajo busca conectar las lecciones aprendidas en otros países con las realidades locales, proponiendo caminos para una educación intercultural verdaderamente transformadora.
+
+Este libro es el resultado de un proceso de exploración académica y tecnológica en el que la inteligencia artificial y la automatización desempeñaron un papel fundamental. Desde la búsqueda de literatura en bases de datos científicas mediante rcrossref hasta la generación de esquemas, borradores y capítulos completos con modelos de lenguaje, cada etapa fue diseñada para integrar la rigurosidad del análisis con la eficiencia del cómputo automatizado. El código que dio origen a esta obra —desde funciones para recolectar miles de publicaciones sobre “cosmologías indígenas y naturaleza” en Sudamérica hasta algoritmos que estructuraron los temas y sintetizaron el texto— permitió transformar grandes volúmenes de información en conocimiento articulado y coherente. Así, esta metodología basada en R, tidyverse y agentes de lenguaje (como my_orchestrator, my_typewriter y editorinchief) no solo aceleró la producción del contenido, sino que también abrió un espacio de colaboración entre ciencia de datos, inteligencia artificial y humanidades. Este libro, por tanto, es tanto una reflexión sobre la educación y el conocimiento indígena en el Ecuador como una demostración práctica de cómo la tecnología puede apoyar la creación colectiva, el acceso abierto y la innovación en la investigación académica.
+
+![](images/clipboard-1148989720.png)

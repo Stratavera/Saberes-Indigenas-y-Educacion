@@ -1,0 +1,63 @@
+project:
+  type: book
+
+book:
+  cover-image: img/cover.png
+  title: "Saberes Indigenas y Educacion"
+  subtitle: "Lecciones para el Ecuador desde una lectura sistematica"
+  reader-mode: true
+  favicon: img/cover.png
+  page-navigation: true
+  back-to-top-navigation: true
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+  repo-url: "https://github.com/Stratavera/Trazos_de_biodiversidad"
+  image: img/cover.jpg
+  sidebar:
+    logo: img/logo2.png
+    style: docked
+    background: "#362417"
+  
+  
+  author: "Gabriel Muñoz"
+  date: "25/10/2025"
+  chapters:
+    - href: index.qmd
+      text: "Acerca de este libro"
+    - href: preface.qmd 
+      text: "Prefacio"
+    - href: chapter_01.qmd
+      text: "Introduccion: Conocimiento indigena y educacion en Ecuador"
+    - part: "Modelos y Experiencias Internacionales"
+      chapters:
+        - href: chapter_02.qmd
+          text: "Modelos internacionales de éxito educativo indígena"
+        - href: chapter_03.qmd
+          text: "Inversiones pro-equidad y enfoques centrados en pueblos indígenas (MAPAS, Nueva Zelanda)"
+        - href: chapter_04.qmd
+          text: "Innovaciones en políticas de educación indígena (Australia)"
+    
+    - part: "Medición, Principios y Prácticas Locales"
+      chapters:
+        - href: chapter_05.qmd
+          text: "Empoderamiento digital para la revitalización lingüística y cultural (Atikamekw, Canadá)"
+        - href: chapter_06.qmd
+          text: "Definición y medición del éxito educativo indígena"
+        - href: chapter_07.qmd
+          text: "Intervenciones codiseñadas y lideradas localmente: principios y práctica"
+        - href: chapter_08.qmd
+          text: "Marcos para currículos interculturales y culturalmente pertinentes en el Ecuador"
+    
+    - part: "Hacia un Marco Ecuatoriano"
+      chapters:
+        - href: chapter_09.qmd
+          text: "Adaptación de lecciones globales: estrategias para universidades, ministerios y sociedad civil ecuatoriana"
+        - href: chapter_010.qmd
+          text: "Conclusión: Caminos a seguir para los derechos y saberes indígenas en el Ecuador"
+        
+format:
+  html:
+    theme: haddock
+    toc: true
+    mermaid:
+      theme: forest

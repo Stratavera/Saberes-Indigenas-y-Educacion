@@ -1,0 +1,12 @@
+---
+format: html
+---
+
+
+## Acerca de este libro {.unnumbered}
+
+Este libro es una síntesis automatizada que explora cómo las experiencias internacionales en educación indígena pueden inspirar políticas, programas y prácticas más equitativas en el contexto ecuatoriano. A partir de casos exitosos en Nueva Zelanda, Australia y Canadá, el libro analiza estrategias de inversión pro-equidad, innovación educativa y revitalización cultural, conectándolas con los desafíos locales de interculturalidad, diseño curricular y participación comunitaria. Su propósito es ofrecer una mirada comparativa que fortalezca el diálogo entre saberes, fomente la colaboración entre instituciones y pueblos indígenas, y oriente nuevas rutas para garantizar el derecho a una educación pertinente, inclusiva y basada en los conocimientos ancestrales del Ecuador.
+
+::: callout 
+![](img/978-9942-51-309-0.jpg)
+:::
